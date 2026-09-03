@@ -1,2 +1,2 @@
 # everyoursorg.github.io
-Personal website hosted on GitHub Pages
+Welcome to Ever Yours
